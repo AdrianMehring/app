@@ -1,0 +1,13 @@
+.result {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
