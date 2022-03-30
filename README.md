@@ -1,5 +1,5 @@
-Aplikacja wykonana na laboratoria.
+# Aplikacja wykonana na laboratoria.
 
-React.
+- React
 
 ![Screenshot 1](readme__pic/przyklad.png)
